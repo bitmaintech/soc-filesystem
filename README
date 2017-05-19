@@ -22,6 +22,6 @@ To build the latest stable kernel, run the following:
 To build the root file system:
 
 
-    $ MACHINE=socpfga_cyclone5 bitbake console-image
+    $ MACHINE=socpfga_cyclone5 bitbake C5
 
 
